@@ -4,6 +4,14 @@
         "source": "D:\\workspace05\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\gatt_services.xml"
     },
     {
+        "merged": "E:\\BluetoothDemo\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\BluetoothDemo\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\BluetoothDemo\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "E:\\BluetoothDemo\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
         "merged": "D:\\workspace05\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "D:\\workspace05\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\main.xml"
     }
